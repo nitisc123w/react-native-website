@@ -64,7 +64,7 @@ People from many different development backgrounds are learning React Native. Yo
 </TabItem>
 <TabItem value="ios">
 
-> iOS developers may be familiar with this concept.
+> iOS developers may be familiar with this concept.  kjkjkjkjkjkjkj
 
 </TabItem>
 <TabItem value="web">
